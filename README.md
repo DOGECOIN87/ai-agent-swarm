@@ -91,4 +91,4 @@ OPENAI_API_KEY=your_openai_api_key_here
 CLINE_API_KEY=your_cline_api_key_here
 ```
 
-These keys allow agents to access OpenAI's API for model interactions and Clineâ€™s API for VSCode integration.
+These keys allow agents to access OpenAI's API for model interactions and Cline's API for VSCode integration.
