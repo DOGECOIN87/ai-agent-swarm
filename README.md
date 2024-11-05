@@ -63,7 +63,7 @@ This project is an AI agent framework that uses multiple specialized agents mana
 - **Example Task**: Interprets and validates smart contract details, performs basic checks, and assists with contract-related queries.
 
 ### VSCode Coding Agent
-- **Purpose**: Interacts with VSCode to execute commands and edit files, using Clineâ€™s AI-assisted coding capabilities.
+- **Purpose**: Interacts with VSCode to execute commands and edit files, using Cline's AI-assisted coding capabilities.
 - **Example Task**: Modifies files, runs Cline commands, and integrates with VSCode for seamless coding workflows.
 
 ## Testing
@@ -91,4 +91,4 @@ OPENAI_API_KEY=your_openai_api_key_here
 CLINE_API_KEY=your_cline_api_key_here
 ```
 
-These keys allow agents to access OpenAIâ€™s API for model interactions and Clineâ€™s API for VSCode integration.
+These keys allow agents to access OpenAI's API for model interactions and Clineâ€™s API for VSCode integration.
