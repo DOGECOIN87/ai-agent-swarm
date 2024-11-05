@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Config files
+cline_config.json
+
+.env
