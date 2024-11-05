@@ -92,3 +92,10 @@ CLINE_API_KEY=your_cline_api_key_here
 ```
 
 These keys allow agents to access OpenAI's API for model interactions and Cline's API for VSCode integration.
+
+
+
+Thanks for checking out my project!  as you can see I'm a complete NooB still lol...  if you don't mind, please make a donation if possible thanks!  🥳 
+
+BTC:  bc1qfeaynfhdz2s7839rj8gvh8np39qag0snpxk437
+SOL:  Hn1i7bLb7oHpAL5AoyGvkn7YgwmWrVTbVsjXA1LYnELo
